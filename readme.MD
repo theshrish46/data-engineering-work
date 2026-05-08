@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+![Medallion Architecture](./assets/medallion.png)
+
 This project is a complete end-to-end Retail Data Engineering and Analytics Pipeline built using modern data engineering and analytics technologies including:
 
 - Python
